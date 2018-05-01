@@ -1,0 +1,28 @@
+Q1: Write a program to find top two maximum numbers in a array ?
+
+Q2: Write a program to sort a HashMap by value?
+
+Q3: Write a java program to find the common elements between two arrays?
+
+Q4. Write a program to remove duplicates from sorted array?
+
+Q5. Write a program to find the sum of the first 1000 prime numbers?
+
+Q6. Write a program to find two lines with max characters in descending order from a file?
+
+Q7. Write a program to convert string to number without using Integer.parseInt() method?
+
+Q8. Write a program to get a line with max word count from the given file?
+ 
+Q9. Write a program to get distinct word list from the given file?
+
+Q10. Write a program for Bubble Sort in java?
+
+Q11. Write a program for Insertion Sort in java?
+
+Q12. Write a program to find the given number is Armstrong number or not? 
+Note : An Armstrong number of three digits is an integer such that the sum of the cubes of its digits is equal to the number itself. For example, 371 is an Armstrong number since 3**3 + 7**3 + 1**3 = 371. 
+
+
+
+https://github.com/CoursesRavindraBabu/java

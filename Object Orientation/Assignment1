@@ -1,0 +1,81 @@
+1. What is the output of the following program?
+package main; 
+class Parent {
+    public void display() {
+        System.out.println("Parent");
+    }         
+}
+class Child extends Parent {    
+    public void display() {
+        System.out.println("Derived");
+    }
+}
+class Main{
+    public static void doDisplay( Parent o ) {
+        o.display();   
+    }
+
+    public static void main(String[] args) {
+        Parent x = new Parent();
+        Parent y = new Child();
+        Child z = new Child();
+        doDisplay(x);
+        doDisplay(y);
+        doDisplay(z);
+    }
+}
+
+2. What is the output of following program?
+class Coordinate {
+    int x, y;
+
+    public Coordinate(int x, int y) {
+        this.x = x;
+        this.y = y;
+    }
+}
+public class Main {
+    public static void main(String args[]) {
+        Coordinate p = new Coordinate();
+        System.out.println("x = " + p.x + ", y = " + p.y);
+    }
+}
+
+3. What is the output of following program?
+public class Test {    
+    int x = 2;
+    Test(int i) { x = i; } 
+    public static void main(String[] args) {    
+         Test t = new Test(5);
+         System.out.println("x = " + t.x);
+    }
+}
+
+4. What is the output of following program?
+class SuperClass {
+    protected void foo() {}
+}
+class Child extends SuperClass {
+    void foo() {}
+}
+public class Test {
+    public static void main(String args[]) {
+        Child child = new Child();
+        child.foo();
+    }
+}
+
+5. What is the output of the following program?
+public class Test {
+    public static void test(String s)
+    {
+        System.out.println("In String");
+    }
+    public static void test(Object o) {
+        System.out.println("In Object");
+    }
+
+    public static void main(String args[]) {
+        test(null);
+    }
+}

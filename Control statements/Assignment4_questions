@@ -1,0 +1,41 @@
+Q1 : (Random month) Write a program that randomly generates an integer between 1
+and 12 and displays the English month name January, February, …, December for
+the number 1, 2, …, 12, accordingly.
+Q2: (Find future dates) Write a program that prompts the user to enter an integer for
+today’s day of the week (Sunday is 0, Monday is 1, …, and Saturday is 6). Also
+prompt the user to enter the number of days after today for a future day and display
+the future day of the week.
+
+Q3:(Sort three integers) Write a program that prompts the user to enter three integers
+and display the integers in non-decreasing order.
+
+Q4. (Find the number of days in a month) Write a program that prompts the user
+to enter the month and year and displays the number of days in the month. For
+example, if the user entered month 2 and year 2012, the program should display
+that February 2012 had 29 days. If the user entered month 3 and year 2015, the
+program should display that March 2015 had 31 days.
+
+Q5. (Count positive and negative numbers and compute the average of numbers) Write
+a program that reads an unspecified number of integers, determines how many
+positive and negative values have been read, and computes the total and average of
+the input values (not counting zeros). Your program ends with the input 0. Display
+the average as a floating-point number.
+
+Q6. (Find the highest score) Write a program that prompts the user to enter the number
+of students and each student’s name and score, and finally displays the name
+of the student with the highest score.
+
+Q7. (Find the two highest scores) Write a program that prompts the user to enter the
+number of students and each student’s name and score, and finally displays the
+student with the highest score and the student with the second-highest score.
+
+Q8. (Find numbers divisible by 5 and 6) Write a program that displays all the numbers
+from 100 to 1,000, ten per line, that are divisible by 5 and 6. Numbers are
+separated by exactly one space.
+
+Q9. (Find the largest n such that n^3 < 12,000) Use a while loop to find the largest
+integer n such that n^3 is less than 12,000.
+
+Q10. (Find the factors of an integer) Write a program that reads an integer and displays
+all its smallest factors in increasing order. For example, if the input integer is
+120, the output should be as follows: 2, 2, 2, 3, 5.

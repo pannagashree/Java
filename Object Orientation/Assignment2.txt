@@ -1,0 +1,6 @@
+1. How do you implement multiple inheritance in java?
+2.  How do you restrict a member of a class from inheriting to it’s sub classes.?
+3. Are constructors and initializers also inherited to sub classes.?
+4. Are static members inherited to sub classes?
+5. Can we use a field or a method declared without access modifiers outside the package.?
+6. Can a top level class be private or protected? 

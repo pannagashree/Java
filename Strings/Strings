@@ -1,0 +1,8 @@
+Q1. Write a java program to remove the space in the given string?
+	Input: Ravindra babu ravula
+	Output: Ravindrababuravula
+Q2. Write a java program to count the number of times token string appeared in given target string? 
+	Input: TargetString : java is a programming language. It is mostly used in big data applications
+	       TokenString: is
+	Output: 2
+ 

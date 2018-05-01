@@ -1,0 +1,18 @@
+Q1: Write Java program to convert the characters of a file to uppercase?
+	Input : Let file cntents: 
+			Use this assignment to learn reading and writing to file
+	Output: USE THIS ASSIGNMENTS TO LEARN READING AND WRITING TO FILE
+
+Q2: Write a java code to delete the words from a string that are prsent in a file named stopwords.txt?
+Note: stopwords.txt contains the words as comma seperated
+Example stopwords.txt: a,able,about,across,after,all,almost,the,to,is
+
+Input: TextString : This is Java assignment helps you to understand the files.
+       stopwords.txt: a,able,about,across,after,all,almost,the,to,is,this
+Output: Java assignment helps understand files
+
+Hint: Try to load the stopwords.txt in to HashSet and chack every word of string present in the HashSet if present remove the word.
+      Use the split method of string to tokenize the stopwords.txt file lines with ,
+
+
+
