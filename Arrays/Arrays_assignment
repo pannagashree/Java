@@ -7,5 +7,5 @@
 7. Write a program to reverse the given array?
 8. Write a program to find third smallest element in the given array? - SORT 
 9. Can you change size of array once created? - NO
-10. Can you store String in an array of Integer in Java? compile time error or runtime exception
+10. Can you store String in an array of Integer in Java? compile time error or runtime exception - COMPILE TIME ERROR
 
