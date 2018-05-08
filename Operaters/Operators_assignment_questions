@@ -27,7 +27,7 @@ Q6: (Health application: computing BMI) Body Mass Index (BMI) is a measure of
 health on weight. It can be calculated by taking your weight in kilograms and
 dividing by the square of your height in meters. Write a program that prompts the
 user to enter a weight in pounds and height in inches and displays the BMI. Note
-that one pound is 0.45359237 kilograms and one inch is 0.0254 meters.
+that one pound is 0.45359237	 kilograms and one inch is 0.0254 meters.
 
 Q7. (Geometry: distance of two points) Write a program that prompts the user to enter
 two points (x1, y1) and (x2, y2) and displays their distance between them.
@@ -39,4 +39,4 @@ a 		b 		pow(a, b)
 2 		3 		8
 3 		4 		81
 4 		5 		1024
-5 		6 		15625s
+5 		6 		15625
