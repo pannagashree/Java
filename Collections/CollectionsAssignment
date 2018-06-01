@@ -41,4 +41,3 @@ Write a program to count number of smaller elements on right of each element in 
 Example :
 	Input:   arr[] =  {12, 1, 2, 3, 0, 11, 4}
 	Output:  countSmaller[]  =  {6, 1, 1, 1, 0, 1, 0} 
-Find the number of distinct duplicate elements in given array?
